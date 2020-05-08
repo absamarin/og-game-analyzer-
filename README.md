@@ -7,7 +7,7 @@ Any additional information about your solution goes here.
 
 Unanswered questions
 ====
-    What will happen if the operator uploads a file twice?
+    What will happen if a operator uploads a file twice?
     for game-ingest it's better to get the fileName as a parameter and store as a unique name in MatchTable.
 
 
